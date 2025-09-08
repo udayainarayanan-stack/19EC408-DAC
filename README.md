@@ -7,6 +7,7 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 ## APPARATUS REQUIRED
 
+
 | S. No | Item              | Specification   | Quantity |
 |-------|------------------|-----------------|----------|
 | 1     | Microprocessor kit | 8086            | 1        |
